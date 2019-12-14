@@ -2,5 +2,5 @@ hhaifhak
 afa
 
 afaf
-afae
+afae GPL
 final git is a distributed verion control system
