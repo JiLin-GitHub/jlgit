@@ -10,3 +10,4 @@ test merge branch.
 An apple.
 no-ff fst.
 no-ff sec.
+no-ff trd.
