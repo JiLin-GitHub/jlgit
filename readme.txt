@@ -8,4 +8,3 @@ git has a mutable index called stage
 git  tracks changes of files.
 test merge branch.
 An apple.
-no--ff.
